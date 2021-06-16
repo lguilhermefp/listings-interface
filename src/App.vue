@@ -9,8 +9,8 @@
 
 <script>
   import AppointmentList from './components/AppointmentList';
-  import AddAppointment from './components/AddAppoinment';
-  import _ from "lodash";
+  import AddAppointment from './components/AddAppointment';
+  import _ from 'lodash';
   import axios from 'axios';
   export default {
     name: 'MainApp',
